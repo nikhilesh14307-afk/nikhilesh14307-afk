@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Dommaraju Nikhilesh Raju
 
-<!--
-**nikhilesh14307-afk/nikhilesh14307-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at New Horizon College of Engineering  
+📍 Bengaluru, Karnataka, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning MERN Stack
+- 💻 Learning Data Structures & Algorithms
+- 🤖 Interested in Machine Learning and AI
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Git & GitHub
+
+## 📂 Projects
+### 🌾 AI Crop Yield Prediction & Optimization
+- Predicts crop yield using Machine Learning
+- Provides crop recommendations
+- Weather-based insights
+- Fertilizer recommendation
+
+### 📝 Student Registration System
+- Student registration with validation
+- HTML, CSS and JavaScript
+
+## 📫 Contact
+📧 Email: nikhilesh14307@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
