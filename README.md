@@ -5,7 +5,7 @@ Bengaluru, Karnataka, India
 
 ## About Me
 - Currently learning MERN Stack
-- 💻 Learning Data Structures & Algorithms
+-  Learning Data Structures & Algorithms
 -  Interested in Machine Learning and AI
 - Goal: Become a Software Engineer at a Product-Based Company
 
