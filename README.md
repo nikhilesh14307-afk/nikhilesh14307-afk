@@ -32,6 +32,7 @@ Bengaluru, Karnataka, India
 
 ## Contact
 Email: nikhilesh14307@gmail.com
+Linkedin: https://www.linkedin.com/in/nikhilesh-raju-d-143778368/?isSelfProfile=true
 
 ---
 Thanks for visiting my profile!
